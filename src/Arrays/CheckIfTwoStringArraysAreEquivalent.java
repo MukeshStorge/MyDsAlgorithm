@@ -3,10 +3,8 @@ package Arrays;
 public class CheckIfTwoStringArraysAreEquivalent {
 
 	public static void main(String args[]) {
-		
 		String[] a = { "a", "cb" };
 		String[] b = { "ab", "c" };
-
 		System.out.println(arrayStringsAreEqual(a, b));
 	}
 
