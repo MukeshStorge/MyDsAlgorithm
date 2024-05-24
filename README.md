@@ -30,6 +30,10 @@ Common Problem Solving Patterns
       * Compare and skip repeated charecters
     * [Rabin-Karp] O(n-m+1) Compare the hash value for the correponding pattern hash value(eg. abc). (Spurious Hits - Order of pattern mismatch issue-collision O(mn)) -> Avoid this by multipling a*26^2 b*26^1 c*26^0
       * Rolling hash function
+      * Hash collision
+        * Separate chaining ( e.g. using nested arrays of key values implemented in following hash tables )
+        * linear probing ( if index filled place {key, value} in next position )
+        
 * Sorting Algorithms
   * Comparison-based Sorting Algorithms:
       * BUB - Bubble Sort,
