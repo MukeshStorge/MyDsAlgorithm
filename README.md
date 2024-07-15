@@ -48,6 +48,7 @@ Common Problem Solving Patterns
         
 * Useful Links
   * [Study Plan]
+  * [Cheat Plan]
   * [Blind75]
   * [Grind75] [leet]
 
@@ -62,3 +63,4 @@ Common Problem Solving Patterns
 [Study Plan]: https://www.techinterviewhandbook.org/coding-interview-study-plan/
 [Grind75]: https://www.techinterviewhandbook.org/grind75?weeks=2&hours=16
 [leet]: https://leetcode.com/problem-list/ong932e1/
+[Cheat Plan]: https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/
